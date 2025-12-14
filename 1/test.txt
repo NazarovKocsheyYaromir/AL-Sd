@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+	float x = 3.14;    // это float в комментарии
+     /* другой float 
+     в многострочном комментарии */
+     printf("float в строке");
+     float y = 0;
+     float* ptr;
+     char floating_1
+     int 1_float_1
+     int afloating
+     return 0;
+ }
